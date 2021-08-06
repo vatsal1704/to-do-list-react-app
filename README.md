@@ -1,3 +1,36 @@
+## TO-DO-List React app
+
+It is a to-do list made using reactJS and react hooks.
+
+You can add items in the list , delete items from the list and you can also update a specifiv item from the list.
+
+Concepts used:
+<ul>
+  <li>React Hooks</li>
+  <li>JSX</li>
+  <li>JavaScript</li>
+  <li>CSS</li>
+<ul/>
+  
+IDE used:
+<ul>
+<li>VS Code</li>
+</ul>
+ 
+ 
+  
+  
+  
+  
+  
+  
+<p>Have a look at the project here:</p>
+https://vatsal1704.github.io/to-do-list-react-app/
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
