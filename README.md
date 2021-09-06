@@ -2,7 +2,7 @@
 
 It is a to-do list made using reactJS and react hooks.
 
-You can add items in the list , delete items from the list and you can also update a specifiv item from the list.
+You can add items in the list , delete items from the list and you can also update a specify item from the list.
 
 Concepts used:
 <ul>
